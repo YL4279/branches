@@ -4,3 +4,7 @@ const f1 = ()=>{
 const f2=()=>{
     return "good!!"
 }
+
+const f3=()=>{
+    return 'f3'
+}

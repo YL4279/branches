@@ -8,3 +8,7 @@ const f2=()=>{
 const f3=()=>{
     return 'f3'
 }
+
+const f33=()=>{
+    return 'f3'
+}

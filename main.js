@@ -12,3 +12,7 @@ const f3=()=>{
 const f33=()=>{
     return 'f3'
 }
+
+const f5=()=>{
+    return 'f5'
+}

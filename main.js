@@ -12,3 +12,6 @@ const f3=()=>{
 const f33=()=>{
     return 'f3'
 }
+const f4=()=>{
+    return true
+}
